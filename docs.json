@@ -29,6 +29,7 @@
               "essentials/images",
               "essentials/settings",
               "essentials/navigation",
+              "essentials/logo",
               "essentials/reusable-snippets"
             ]
           }
