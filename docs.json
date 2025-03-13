@@ -30,12 +30,12 @@
         {
           "anchor": "GitHub",
           "href": "https://github.com/SimonGhost1012/Toolbox",
-          "icon": "/logo/github.svg"
+          "icon": "github"
         },
         {
           "anchor": "Discord",
           "href": "https://discord.gg/qnS9HbEBVj",
-          "icon": "/logo/discord2.svg"
+          "icon": "discord"
         }
       ]
     }
