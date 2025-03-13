@@ -4,8 +4,8 @@
   "name": "Toolbox",
   "colors": {
     "primary": "#ff0000",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#7F0000",
+    "dark": "#4C0000"
   },
   "favicon": "/favicon.png",
   "navigation": {
