@@ -16,9 +16,10 @@
           {
             "group": "Welcome",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "Info",
+              "Installation",
+              "Usage",
+              "FAQ"
             ]
           }
         ]
@@ -29,7 +30,7 @@
         {
           "anchor": "GitHub",
           "href": "https://github.com/SimonGhost1012/Toolbox",
-          "icon": "/logo/info.svg"
+          "icon": "/logo/github.svg"
         },
         {
           "anchor": "Discord",
