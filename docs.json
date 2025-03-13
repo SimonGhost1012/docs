@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Toolbox",
   "colors": {
-    "primary": "#000000",
+    "primary": "#ff0000",
     "light": "#ff0000",
     "dark": "#ff0000"
   },
