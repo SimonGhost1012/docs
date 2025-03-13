@@ -14,8 +14,9 @@
         "tab": "Toolbox",
         "groups": [
           {
-            "group": "Welcome",
+            "group": "Toolbox",
             "pages": [
+              "Welcome",
               "Info",
               "Installation",
               "Usage",
