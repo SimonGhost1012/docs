@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Toolbox",
   "colors": {
-    "primary": "#ff0000",
-    "light": "#ff0000",
-    "dark": "#ff0000"
+    "primary": "#ffffff",
+    "light": "#ffffff",
+    "dark": "#ffffff"
   },
   "favicon": "/logo/favicon.png",
   "navigation": {
